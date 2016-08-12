@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Category(分类)/ProductDetailInfo/Product(商品)/Controller/SCProductTableController.m \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Category(分类)/ProductDetailInfo/Product(商品)/Controller/SCProductTableController.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Headers(头文件)/SCProductCellCommon.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Category(分类)/ProductDetailInfo/Product(商品)/View/SCImageCell/SCImageCell.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Category(分类)/ProductDetailInfo/Product(商品)/View/SCCommonCell.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Tool(工具类)/HTTP/ProductDetail/SCProductInfo.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Category(分类)/ProductDetailInfo/Product(商品)/View/SCNamePriceCell.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Category(分类)/ProductDetailInfo/Product(商品)/View/SCSelectionSkuCell.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Category(分类)/ProductDetailInfo/Product(商品)/View/SCServiceCell.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Category(分类)/ProductDetailInfo/Product(商品)/View/SCCommentCell.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Tool(工具类)/HTTP/ProductDetail/SCProductDetailList.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Tool(工具类)/HTTP/ProductDetail/SCProductImagePath.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Tool(工具类)/HTTP/ProductDetail/SCProductInfoTool.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Tool(工具类)/HTTP/SCHttpTool.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFNetworking.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFURLRequestSerialization.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFURLResponseSerialization.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFSecurityPolicy.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFNetworkReachabilityManager.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFURLConnectionOperation.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFHTTPRequestOperation.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFHTTPRequestOperationManager.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFURLSessionManager.h \
+  /Users/kengsir/Desktop/SCGoJD/SCGoJD/Classes/Other(其他)/Libs/AFNetworking/AFHTTPSessionManager.h
